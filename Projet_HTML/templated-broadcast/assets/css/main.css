@@ -19,6 +19,40 @@
 		vertical-align: baseline;
 	}
 
+	.logoID{
+		width: 100%;
+		height: auto;	
+	}
+	
+	.titleT{
+		font-size: 4;
+		text-align: center;
+	}
+	
+	.DR{
+		display: block;
+		width: 12.5em;
+		height: 15em;
+	}
+	
+	.BK{
+		display: block;
+		width: 12.5em;
+		height: 10em;
+	}
+	
+	.WS{
+		display: block;
+		width: 12.5em;
+		height: 12.5em;
+	}
+	
+	.DP{
+		display: block;
+		width: 12em;
+		height: 12.5em;
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
